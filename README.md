@@ -33,7 +33,7 @@ Focus:
 - [x] Python installed
 - [x] Java JDK installed
 - [x] Docker installed and tested
-- [ ] Learn Git and GitHub workflow
+- [x] Learn Git and GitHub workflow
 - [ ] Start first Atlas learning project
 
 ## Rule
